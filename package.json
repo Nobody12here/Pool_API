@@ -1,0 +1,15 @@
+{
+  "name": "genoixapi",
+  "version": "1.0.0",
+  "description": "An API that calculates reward",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "web3": "^4.6.0"
+  }
+}
